@@ -2,7 +2,7 @@ service:
     name: harness_guestbook
     identifier: harnessguestbook
     orgIdentifier: default
-    projectIdentifier: Default_Project_1663189008762    
+    projectIdentifier: Default_Project_1663189008762
     serviceDefinition:
         type: Kubernetes
         spec:
